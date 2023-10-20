@@ -45,11 +45,11 @@
     display: block;
     list-style-type: none;
     white-space: nowrap;
-    padding-left: 0em;
     float: right;
-
+    
     &--lg {
       padding-right: 2em;
+      padding-left: 0em;
       font-size: large;
       font-weight: 700;
       float: left;

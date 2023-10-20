@@ -245,21 +245,19 @@
   }
 
   .hidden-links {
-    display: table;
+    display: block;
 
     li {
-      display: table-cell;
+      display: inline-block;
       vertical-align: middle;
 
       a {
-        margin-left: 0;
+        margin-left: 1em;
         margin-right: 0;
       }
 
       &:first-child {
         font-weight: bold;
-
-        
       }
     }
 

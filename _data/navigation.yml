@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Research Experience"
-    url: experience/
-
   - title: "Publications"
     url: publications/
+
+  - title: "Research Experience"
+    url: experience/
 
   # - title: "Side Projects"
   #   url: side-projects/

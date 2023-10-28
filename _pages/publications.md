@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**<br />
-Kok-Seng Wong *, Manh Nguyen-Duc *, **Khiem Le-Huy** *, Long Ho-Tuan, Cuong Do-Danh, Danh Le-Phuoc<br />
+Kok-Seng Wong*, Manh Nguyen-Duc*, **Khiem Le-Huy***, Long Ho-Tuan, Cuong Do-Danh, Danh Le-Phuoc<br />
 arXiv:2305.19831<br />
 📄 [[Paper]](https://arxiv.org/abs/2305.19831) | 💻 [[Code]](https://github.com/lhkhiem28/FLIoT)
 
@@ -26,7 +26,7 @@ Biomedical Signal Processing and Control, Volume 85, 2023<br />
 📄 [[Paper]](https://doi.org/10.1016/j.bspc.2023.104963) | 💻 [[Code]](https://github.com/lhkhiem28/LightX3ECG)
 
 **Learning from Multiple Expert Annotators for Enhancing Anomaly Detection in Medical Image Analysis**<br />
-**Khiem H. Le** *, Tuan V. Tran *, Hieu H. Pham, Hieu T. Nguyen, Tung T. Le, Ha Q. Nguyen<br />
+**Khiem H. Le***, Tuan V. Tran*, Hieu H. Pham, Hieu T. Nguyen, Tung T. Le, Ha Q. Nguyen<br />
 IEEE Access, Volume 11, 2023<br />
 📄 [[Paper]](https://doi.org/10.1109/ACCESS.2023.3243845) | 💻 [[Code]](https://github.com/huyhieupham/learning-from-multiple-annotators)
 

@@ -13,7 +13,7 @@ arXiv:2305.19831<br />
 **HyperRouter: Toward Efficient Training and Inference of Sparse Mixture of Experts via HyperNetwork**<br />
 GT Do, **KH Le**, TT Nguyen, QH Pham, BT Nguyen, TN Doan, C Liu, R Savitha, X Li, SCH Hoi<br />
 The 2023 Conference on Empirical Methods in Natural Language Processing<br />
-📄 [[Paper]](https://hal.science/hal-04257067) | 💻 [[Code]](https://github.com/giangdip2410/HyperRouter)
+📄 [[Paper]](https://aclanthology.org/2023.emnlp-main.351) | 💻 [[Code]](https://github.com/giangdip2410/HyperRouter)
 
 **Deep Learning-Based 3-Lead ECG Classification with Heartbeat Counting and Demographic Data Integration**<br />
 **Khiem H. Le**, Hieu H. Pham, Thao BT. Nguyen, Tu A. Nguyen, Tien N. Thanh, Cuong D. Do<br />

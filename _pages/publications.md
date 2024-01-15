@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**<br />
+**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation**<br />
 Kok-Seng Wong<sup>&dagger;</sup>, Manh Nguyen-Duc<sup>&dagger;</sup>, **Khiem Le-Huy**<sup>&dagger;</sup>, Long Ho-Tuan, Cuong Do-Danh, Danh Le-Phuoc<br />
 arXiv:2305.19831<br />
 📄 [[Paper]](https://arxiv.org/abs/2305.19831) | 💻 [[Code]](https://github.com/lhkhiem28/FLIoT)

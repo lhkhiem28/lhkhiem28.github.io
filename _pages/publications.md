@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization**<br />
+**Khiem Le**, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
+The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition<br />
+📄 [[Paper]](https://arxiv.org/abs/2403.15605) | 💻 [[Code]](https://github.com/lhkhiem28/gPerXAN)
+
 **FedFSLAR: A Federated Learning Framework for Few-Shot Action Recognition**<br />
 Nguyen Anh Tu<sup>&dagger;</sup>, Assanali Abu<sup>&dagger;</sup>, Nartay Aikyn, Nursultan Makhanov, Min-Ho Lee, **Khiem Le-Huy**, Kok-Seng Wong<br />
 The 2024 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops<br />

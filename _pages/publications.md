@@ -40,7 +40,7 @@ Biomedical Signal Processing and Control, Volume 85, 2023<br />
 IEEE Access, Volume 11, 2023<br />
 📄 [[Paper]](https://doi.org/10.1109/ACCESS.2023.3243845) | 💻 [[Code]](https://github.com/huyhieupham/learning-from-multiple-annotators)
 
-**Learning for Amalgamation: A Multi-Source Transfer Learning Framework for Sentiment Classification**<br />
+**Learning for Amalgamation: A Multi-Source Transfer Learning Framework for Text Classification**<br />
 Cuong V. Nguyen, **Khiem H. Le**, Anh M. Tran, Quang H. Pham, Binh T. Nguyen<br />
 Information Sciences, Volume 590, 2022<br />
 📄 [[Paper]](https://doi.org/10.1016/j.ins.2021.12.059) | 💻 [[Code]](https://github.com/lhkhiem28/Learning-for-Amalgamation)

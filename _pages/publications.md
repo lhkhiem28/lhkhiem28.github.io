@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+# LLM
+
+# FedLLM
+
+# Survey
+
+# FedCL
+
 **Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization**<br />
 **Khiem Le**, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
 The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition<br />

@@ -10,12 +10,7 @@ author_profile: true
 The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition<br />
 📄 [[Paper]](https://arxiv.org/abs/2403.15605) | 💻 [[Code]](https://github.com/lhkhiem28/gPerXAN)
 
-**FedFSLAR: A Federated Learning Framework for Few-Shot Action Recognition**<br />
-Nguyen Anh Tu<sup>&dagger;</sup>, Assanali Abu<sup>&dagger;</sup>, Nartay Aikyn, Nursultan Makhanov, Min-Ho Lee, **Khiem Le-Huy**, Kok-Seng Wong<br />
-The 2024 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops<br />
-📄 [[Paper]](https://openaccess.thecvf.com/content/WACV2024W/RWS/html/Tu_FedFSLAR_A_Federated_Learning_Framework_for_Few-Shot_Action_Recognition_WACVW_2024_paper.html) | 💻 [[Code]](https://openaccess.thecvf.com/content/WACV2024W/RWS/html/Tu_FedFSLAR_A_Federated_Learning_Framework_for_Few-Shot_Action_Recognition_WACVW_2024_paper.html)
-
-**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation**<br />
+**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**<br />
 Kok-Seng Wong<sup>&dagger;</sup>, Manh Nguyen-Duc<sup>&dagger;</sup>, **Khiem Le-Huy**<sup>&dagger;</sup>, Long Ho-Tuan, Cuong Do-Danh, Danh Le-Phuoc<br />
 arXiv:2305.19831<br />
 📄 [[Paper]](https://arxiv.org/abs/2305.19831) | 💻 [[Code]](https://github.com/lhkhiem28/FLIoT)

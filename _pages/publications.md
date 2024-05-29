@@ -10,7 +10,7 @@ author_profile: true
 The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition<br />
 📄 [[Paper]](https://arxiv.org/abs/2403.15605) | 💻 [[Code]](https://github.com/lhkhiem28/gPerXAN)
 
-**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**<br />
+**An Empirical Study of Federated Learning on IoT Devices: Resource Allocation and Heterogeneity**<br />
 Kok-Seng Wong<sup>&dagger;</sup>, Manh Nguyen-Duc<sup>&dagger;</sup>, **Khiem Le-Huy**<sup>&dagger;</sup>, Long Ho-Tuan, Cuong Do-Danh, Danh Le-Phuoc<br />
 arXiv:2305.19831<br />
 📄 [[Paper]](https://arxiv.org/abs/2305.19831) | 💻 [[Code]](https://github.com/lhkhiem28/FLIoT)

@@ -16,7 +16,7 @@ author_profile: true
 **Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization**<br />
 **Khiem Le**, Long Ho-Tuan, Cuong Do-Danh, Danh Le-Phuoc, Kok-Seng Wong<br />
 The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition<br />
-📄 [[Paper]](https://arxiv.org/abs/2403.15605) | 💻 [[Code]](https://github.com/lhkhiem28/gPerXAN)
+📄 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.html) | 💻 [[Code]](https://github.com/lhkhiem28/gPerXAN)
 
 **An Empirical Study of Federated Learning on IoT Devices: Resource Allocation and Heterogeneity**<br />
 Kok-Seng Wong<sup>&dagger;</sup>, Manh Nguyen-Duc<sup>&dagger;</sup>, **Khiem Le-Huy**<sup>&dagger;</sup>, Long Ho-Tuan, Cuong Do-Danh, Danh Le-Phuoc<br />

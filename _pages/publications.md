@@ -14,7 +14,7 @@ author_profile: true
 <!-- FedCL -->
 
 **Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization**<br />
-**Khiem Le**, Long Ho-Tuan, Cuong Do-Danh, Danh Le-Phuoc, Kok-Seng Wong<br />
+**Khiem Le**, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
 The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition<br />
 📄 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.html) | 💻 [[Code]](https://github.com/lhkhiem28/gPerXAN)
 

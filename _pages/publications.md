@@ -19,7 +19,7 @@ The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition<br />
 📄 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.html) | 💻 [[Code]](https://github.com/lhkhiem28/gPerXAN)
 
 **An Empirical Study of Federated Learning on IoT Devices: Resource Allocation**<br />
-Kok-Seng Wong<sup>&dagger;</sup>, Manh Nguyen-Duc<sup>&dagger;</sup>, **Khiem Le-Huy**<sup>&dagger;</sup>, Long Ho-Tuan, Cuong Do-Danh, Danh Le-Phuoc<br />
+Manh Nguyen-Duc<sup>&dagger;</sup>, **Khiem Le-Huy**<sup>&dagger;</sup>, Long Ho-Tuan, Cuong Do-Danh, Danh Le-Phuoc, Kok-Seng Wong<br />
 arXiv:2305.19831<br />
 📄 [[Paper]](https://arxiv.org/abs/2305.19831) | 💻 [[Code]](https://github.com/lhkhiem28/FLIoT)
 

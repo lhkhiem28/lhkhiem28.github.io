@@ -5,13 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- LLM -->
+<!-- Revisiting Sparse Mixture of Experts for Federated Learning: Resource-Adaptive Training and Inference -->
 
-<!-- FedLLM -->
+<!-- LLM Serving -->
 
-<!-- Survey -->
+<!-- MolT-Interact -->
 
-<!-- FedCL -->
+<!-- MolT-Refine -->
+
+<!-- MolX -->
+
+<!-- Survey Federated Domain Adaptation and Generalization -->
 
 **Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization**<br />
 **Khiem Le**, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />

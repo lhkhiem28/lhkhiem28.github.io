@@ -15,7 +15,7 @@ author_profile: true
 
 **Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization**<br />
 **Khiem Le**, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
-The 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition<br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024<br />
 📄 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.html) | 💻 [[Code]](https://github.com/lhkhiem28/gPerXAN)
 
 **An Empirical Study of Federated Learning on IoT Devices: Resource Allocation**<br />
@@ -25,12 +25,12 @@ arXiv:2305.19831<br />
 
 **HyperRouter: Toward Efficient Training and Inference of Sparse Mixture of Experts via HyperNetwork**<br />
 GT Do, **KH Le**, TT Nguyen, QH Pham, BT Nguyen, TN Doan, C Liu, R Savitha, X Li, SCH Hoi<br />
-The 2023 Conference on Empirical Methods in Natural Language Processing<br />
+Conference on Empirical Methods in Natural Language Processing 2023<br />
 📄 [[Paper]](https://aclanthology.org/2023.emnlp-main.351) | 💻 [[Code]](https://github.com/giangdip2410/HyperRouter)
 
 **Enhancing Deep Learning-Based 3-Lead ECG Classification with Heartbeat Counting and Demographic Data Integration**<br />
 **Khiem H. Le**, Hieu H. Pham, Thao BT. Nguyen, Tu A. Nguyen, Tien N. Thanh, Cuong D. Do<br />
-The 2022 IEEE-EMBS Conference on Biomedical Engineering and Sciences<br />
+IEEE-EMBS Conference on Biomedical Engineering and Sciences 2022<br />
 📄 [[Paper]](https://doi.org/10.1109/IECBES54088.2022.10079267) | 💻 [[Code]](https://github.com/lhkhiem28/X3ECGpp)
 
 **LightX3ECG: A Lightweight and Explainable Deep Learning System for 3-Lead Electrocardiogram Classification**<br />
@@ -50,5 +50,5 @@ Information Sciences, Volume 590, 2022<br />
 
 **A Novel Approach for Enhancing Vietnamese Sentiment Classification**<br />
 Cuong V. Nguyen, **Khiem H. Le**, Binh T. Nguyen<br />
-The 2021 International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems<br />
+International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems 2021<br />
 📄 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-79463-7_9) | 💻 [[Code]](https://github.com/lhkhiem28/Enhancing-Vietnamese-Sentiment-Analysis-with-Ensemble-Networks)

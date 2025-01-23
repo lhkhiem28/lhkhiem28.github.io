@@ -8,6 +8,6 @@ redirect_from:
   - about.html
 ---
 
-### Hello! I’m Khiem
+# **Hello! I’m Khiem**
 
 🌱 I am an Artificial Intelligence enthusiast. I am happy to connect and grow every day. 

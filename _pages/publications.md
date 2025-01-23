@@ -38,12 +38,12 @@ arXiv:2305.19831<br />
 
 ---
 
-**Enhancing Deep Learning-based 3-lead electrocardiogram classification with heartbeat counting and demographic data integration**<br />
+**Enhancing Deep Learning-based 3-lead ECG classification with heartbeat counting and demographic data integration**<br />
 **Khiem H. Le**, Hieu H. Pham, Thao B.T. Nguyen, Tu A. Nguyen, Tien N. Thanh, Cuong D. Do<br />
 2022 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES), Kuala Lumpur, Malaysia, 2022, pp. 154-159<br />
 📄 [[Paper]](https://doi.org/10.1109/IECBES54088.2022.10079267) | 💻 [[Code]](https://github.com/lhkhiem28/X3ECGpp)
 
-**LightX3ECG: A lightweight and explainable Deep Learning system for 3-lead electrocardiogram classification**<br />
+**LightX3ECG: A lightweight and explainable Deep Learning system for 3-lead ECG classification**<br />
 **Khiem H. Le**, Hieu H. Pham, Thao B.T. Nguyen, Tu A. Nguyen, Tien N. Thanh, Cuong D. Do<br />
 Biomedical Signal Processing and Control Volume 85, August 2023, 104963<br />
 📄 [[Paper]](https://doi.org/10.1016/j.bspc.2023.104963) | 💻 [[Code]](https://github.com/lhkhiem28/LightX3ECG)

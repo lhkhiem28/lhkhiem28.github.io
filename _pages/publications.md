@@ -19,6 +19,18 @@ author_profile: true
 
 ---
 
+**Utilizing Large Language Models in an iterative paradigm with domain feedback for zero-shot molecule optimization**<br />
+**Khiem Le**, Nitesh V. Chawla<br />
+arXiv:2410.13147<br />
+📄 [[Paper]](https://arxiv.org/abs/2410.13147) | 💻 [[Code]](https://github.com/lhkhiem28/Re2DF)
+
+**MolX: Enhancing Large Language Models for molecule-related tasks with a multi-modal extension**<br />
+**Khiem Le**, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Xiangliang Zhang, Olaf Wiest, Wei Wang, Nitesh V. Chawla<br />
+arXiv:2406.06777<br />
+📄 [[Paper]](https://arxiv.org/abs/2406.06777) | 💻 [[Code]](https://github.com/lhkhiem28/MolX)
+
+---
+
 **HyperRouter: Towards efficient training and inference of Sparse Mixture of Experts via Hypernetwork**<br />
 Giang Do, **Khiem Le**, Quang Pham, Tin Nguyen, Nam Doan, Binh Nguyen, Chenghao Liu, Savitha Ramasamy, Xiaoli Li, Steven Hoi<br />
 Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 5754–5765, Singapore. Association for Computational Linguistics<br />

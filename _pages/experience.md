@@ -30,6 +30,6 @@ author_profile: true
 
 ---
 
-* <span style="float: left;">**Research Intern**</span><span style="float: right;">**Jan 2020 - Sep 2020**</span><br />
+* <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2020 - Sep 2020**</span><br />
 <span style="float: left;">[Artificial Intelligence Solution for Industrial Applications Research Lab](https://aisia.vn)</span><span style="float: right;">VNUHCM - University of Science</span><br />
 <ins>*Project:*</ins> Vietnamese sentiment classification<br />

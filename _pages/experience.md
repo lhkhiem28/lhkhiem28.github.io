@@ -25,7 +25,7 @@ author_profile: true
 <ins>*Project:*</ins> ECG classification<br />
 
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2021 - Dec 2021**</span><br />
-<span style="float: left;">[Smart Health Center at VinBigData](https://vindr.ai)</span><span style="float: right;">VinBigData Institution</span><br />
+<span style="float: left;">[VinBigData Smart Health Center](https://vindr.ai)</span><span style="float: right;">VinBigData Institution</span><br />
 <ins>*Project:*</ins> Medical image analysis<br />
 
 ---

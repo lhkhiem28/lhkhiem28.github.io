@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Selected Publications"
     url: publications/
 
-  - title: "Research Experience"
+  - title: "Experience"
     url: experience/
 
   # - title: "Side Projects"

@@ -5,20 +5,20 @@ permalink: /experience/
 author_profile: true
 ---
 
----
+<hr style="border: 1px solid black;">
 
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2024 - Dec 2028**</span><br />
 <span style="float: left;">[Lucy Family Institute for Data and Society](https://lucyinstitute.nd.edu) & [NSF Center for Computer-assisted Synthesis](https://ccas.nd.edu)</span><span style="float: right;">University of Notre Dame</span><br />
 <ins>*Project:*</ins> Computer-assisted molecular design<br />
 
----
+<hr style="border: 1px solid black;">
 
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2023 - Dec 2023**</span><br />
 <span style="float: left;">[Security and Artificial Intelligence Lab](https://sail-research.com)</span><span style="float: right;">VinUniversity</span><br />
 <ins>*Project:*</ins> Resource-efficient Federated Learning<br />
 <ins>*Project:*</ins> Federated Domain Generalization<br />
 
----
+<hr style="border: 1px solid black;">
 
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2022 - Dec 2022**</span><br />
 <span style="float: left;">[VinUni-Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn)</span><span style="float: right;">VinUniversity</span><br />

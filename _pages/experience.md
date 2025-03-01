@@ -5,8 +5,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-<hr style="border: 0.5px solid black;">
-
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2024 - Dec 2028**</span><br />
 <span style="float: left;">[Lucy Family Institute for Data and Society](https://lucyinstitute.nd.edu) & [NSF Center for Computer-assisted Synthesis](https://ccas.nd.edu)</span><span style="float: right;">University of Notre Dame</span><br />
 <ins>*Project:*</ins> Computer-assisted molecular design<br />

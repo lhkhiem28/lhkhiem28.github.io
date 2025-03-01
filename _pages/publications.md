@@ -17,8 +17,6 @@ author_profile: true
 
 <!-- Survey Federated Domain Adaptation and Generalization -->
 
-<hr style="border: 0.5px solid black;">
-
 **An agentic workflow of utilizing Large Language Models with reliable domain feedback for zero-shot molecular optimization**<br />
 **Khiem Le**, Nitesh V. Chawla<br />
 arXiv:2410.13147<br />
@@ -76,5 +74,3 @@ Information Sciences Volume 590, April 2022, Pages 1-14<br />
 Cuong V. Nguyen, **Khiem H. Le**, Binh T. Nguyen<br />
 Advances and Trends in Artificial Intelligence. From Theory to Practice. IEA/AIE 2021. Lecture Notes in Computer Science(), vol 12799. Springer, Cham<br />
 📄 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-79463-7_9) | 💻 [[Code]](https://github.com/lhkhiem28/Enhancing-Vietnamese-Sentiment-Analysis-with-Ensemble-Networks)
-
-<hr style="border: 0.5px solid black;">

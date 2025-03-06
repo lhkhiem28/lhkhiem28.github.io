@@ -13,7 +13,7 @@ arXiv:2410.13147<br />
 📄 [[Paper]](https://arxiv.org/abs/2410.13147) | 💻 [[Code]](https://github.com/lhkhiem28/Re2DF)
 
 **MolX: Enhancing Large Language Models for molecule-related tasks with a multi-modal extension**<br />
-**Khiem Le**, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Xiangliang Zhang, Olaf Wiest, Wei Wang, Nitesh V. Chawla<br />
+**Khiem Le**, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Olaf Wiest, Wei Wang, Nitesh V. Chawla<br />
 arXiv:2406.06777<br />
 📄 [[Paper]](https://arxiv.org/abs/2406.06777) | 💻 [[Code]](https://github.com/lhkhiem28/MolX)
 

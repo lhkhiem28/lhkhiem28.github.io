@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-**An agentic workflow of using Large Language Models with reliable domain feedback for zero-shot molecular optimization**<br />
+**An agentic workflow utilizing Large Language Models with reliable domain feedback for zero-shot molecular optimization**<br />
 **Khiem Le**, Nitesh V. Chawla<br />
 arXiv:2410.13147<br />
 📄 [[Paper]](https://arxiv.org/abs/2410.13147) | 💻 [[Code]](https://github.com/lhkhiem28/Re2DF)

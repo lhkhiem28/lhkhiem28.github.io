@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
----
+<hr style="border: 0.5px solid grey;">
 
 * <span style="float: left;">**Research Scientist Intern**</span><span style="float: right;">**Jun 2025 - Aug 2025**</span><br />
 <span style="float: left;">[Knowledge Enhanced Accelerated Discovery](https://research.ibm.com/projects/knowledge-enhanced-accelerated-discovery)</span><span style="float: right;">IBM Research</span><br />
@@ -38,4 +38,4 @@ author_profile: true
 <span style="float: left;">[Artificial Intelligence Solution for Industrial Applications Research Lab](https://aisia.vn)</span><span style="float: right;">VNUHCM - University of Science</span><br />
 <ins>*Research Area:*</ins> Vietnamese Sentiment Classification<br />
 
----
+<hr style="border: 0.5px solid grey;">

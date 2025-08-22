@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
----
+<hr style="border: 0.5px solid grey;">
 
 **FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**<br />
 **Khiem Le**, Tuan Tran, Ting Hua, Nitesh V. Chawla<br />
@@ -84,4 +84,4 @@ Cuong V. Nguyen, **Khiem H. Le**, Binh T. Nguyen<br />
 Advances and Trends in Artificial Intelligence. From Theory to Practice. IEA/AIE 2021. Lecture Notes in Computer Science(), vol 12799. Springer, Cham<br />
 📄 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-79463-7_9) | 💻 [[Code]](https://github.com/lhkhiem28/Enhancing-Vietnamese-Sentiment-Analysis-with-Ensemble-Networks)
 
----
+<hr style="border: 0.5px solid grey;">

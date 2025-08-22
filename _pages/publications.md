@@ -31,22 +31,29 @@ arXiv preprint arXiv:2406.06777<br />
 
 <hr style="border: 0.5px solid grey;">
 
-**HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts via HyperNetwork**<br />
-Giang Do, **Khiem Le**, Quang Pham, Tin Nguyen, Nam Doan, Binh Nguyen, Chenghao Liu, Savitha Ramasamy, Xiaoli Li, Steven Hoi<br />
-Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 5754–5765, Singapore. Association for Computational Linguistics<br />
-📄 [[Paper]](https://aclanthology.org/2023.emnlp-main.351) | 💻 [[Code]](https://github.com/giangdip2410/HyperRouter)
+**FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**<br />
+**Khiem Le**, Tuan Tran, Ting Hua, Nitesh V. Chawla<br />
+arXiv preprint arXiv:2506.16600<br />
+📄 [[Paper]](https://arxiv.org/abs/2506.16600) | 💻 [[Code]](https://github.com/lhkhiem28/FLAME)
 
 <hr style="border: 0.5px solid grey;">
+
+**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**<br />
+Manh Nguyen-Duc<sup>&dagger;</sup>, **Khiem Le**<sup>&dagger;</sup>, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
+arXiv preprint arXiv:2305.19831<br />
+📄 [[Paper]](https://arxiv.org/abs/2305.19831) | 💻 [[Code]](https://github.com/lhkhiem28/FLIoT)
 
 **Efficient Assembling of Normalization Layers and Regularization for Federated Domain Generalization**<br />
 **Khiem Le**, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 6027-6036<br />
 📄 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.html) | 💻 [[Code]](https://github.com/lhkhiem28/gPerXAN)
 
-**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**<br />
-Manh Nguyen-Duc<sup>&dagger;</sup>, **Khiem Le**<sup>&dagger;</sup>, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
-arXiv preprint arXiv:2305.19831<br />
-📄 [[Paper]](https://arxiv.org/abs/2305.19831) | 💻 [[Code]](https://github.com/lhkhiem28/FLIoT)
+<hr style="border: 0.5px solid grey;">
+
+**HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts via HyperNetwork**<br />
+Giang Do, **Khiem Le**, Quang Pham, Tin Nguyen, Nam Doan, Binh Nguyen, Chenghao Liu, Savitha Ramasamy, Xiaoli Li, Steven Hoi<br />
+Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 5754–5765, Singapore. Association for Computational Linguistics<br />
+📄 [[Paper]](https://aclanthology.org/2023.emnlp-main.351) | 💻 [[Code]](https://github.com/giangdip2410/HyperRouter)
 
 <hr style="border: 0.5px solid grey;">
 

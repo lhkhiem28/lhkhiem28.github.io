@@ -26,7 +26,7 @@ author_profile: true
 
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2022 - Dec 2022**</span><br />
 <span style="float: left;">[VinUni-Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn)</span><span style="float: right;">VinUniversity</span><br />
-<ins>*Research Area:*</ins> Electrocardiogram Classification<br />
+<ins>*Research Area:*</ins> ECG Classification<br />
 
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2021 - Dec 2021**</span><br />
 <span style="float: left;">[VinBigData Smart Health Center](https://vindr.ai)</span><span style="float: right;">VinBigData Institution</span><br />

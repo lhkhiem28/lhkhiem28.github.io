@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 * <span style="float: left;">**Research Scientist Intern**</span><span style="float: right;">**Jun 2025 - Aug 2025**</span><br />
-<span style="float: left;">[Knowledge Enhanced Accelerated Discovery]([https://ccas.nd.edu](https://research.ibm.com/projects/knowledge-enhanced-accelerated-discovery))</span><span style="float: right;">IBM Research</span><br />
+<span style="float: left;">[Knowledge Enhanced Accelerated Discovery](https://research.ibm.com/projects/knowledge-enhanced-accelerated-discovery)</span><span style="float: right;">IBM Research</span><br />
 <ins>*Research Area:*</ins> Computer-Assisted Molecular Design<br />
 
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2024 - Dec 2028**</span><br />

@@ -7,6 +7,13 @@ author_profile: true
 
 ---
 
+**FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**<br />
+**Khiem Le**, Tuan Tran, Ting Hua, Nitesh V. Chawla<br />
+arXiv preprint arXiv:2506.16600<br />
+📄 [[Paper]](https://arxiv.org/abs/2506.16600) | 💻 [[Code]](https://github.com/lhkhiem28/FLAME)
+
+<hr style="border: 0.5px solid grey;">
+
 **SimInstruct: A Responsible Tool for Collecting Scaffolding Dialogues to Develop an Interactive Pedagogical Agent**<br />
 Si Chen, Izzy Molnar, Ting Hua, Peiyu Li, **Khiem Le**, Alex Ambrose, James Lang, Ronald Metoyer, Nitesh V. Chawla<br />
 arXiv preprint arXiv:2508.04428<br />
@@ -28,13 +35,6 @@ arXiv preprint arXiv:2410.13147<br />
 **Khiem Le**, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Xiangliang Zhang, Olaf Wiest, Wei Wang, Ting Hua, Nitesh V. Chawla<br />
 arXiv preprint arXiv:2406.06777<br />
 📄 [[Paper]](https://arxiv.org/abs/2406.06777) | 💻 [[Code]](https://github.com/lhkhiem28/MolX)
-
-<hr style="border: 0.5px solid grey;">
-
-**FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**<br />
-**Khiem Le**, Tuan Tran, Ting Hua, Nitesh V. Chawla<br />
-arXiv preprint arXiv:2506.16600<br />
-📄 [[Paper]](https://arxiv.org/abs/2506.16600) | 💻 [[Code]](https://github.com/lhkhiem28/FLAME)
 
 <hr style="border: 0.5px solid grey;">
 

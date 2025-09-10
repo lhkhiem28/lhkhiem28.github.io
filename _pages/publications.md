@@ -14,7 +14,7 @@ arXiv preprint arXiv:2506.16600<br />
 
 <hr style="border: 0.5px solid grey;">
 
-**SimInstruct: A Responsible Tool for Collecting Scaffolding Dialogues to Develop an Interactive Pedagogical Agent**<br />
+**SimInstruct: A Responsible Tool for Collecting Scaffolding Dialogues to Develop An Interactive Pedagogical Agent**<br />
 Si Chen, Izzy Molnar, Ting Hua, Peiyu Li, **Khiem Le**, Alex Ambrose, James Lang, Ronald Metoyer, Nitesh V. Chawla<br />
 arXiv preprint arXiv:2508.04428<br />
 📄 [[Paper]](https://arxiv.org/abs/2508.04428)

@@ -12,6 +12,11 @@ author_profile: true
 arXiv preprint arXiv:2506.16600<br />
 📄 [[Paper]](https://arxiv.org/abs/2506.16600) | 💻 [[Code]](https://github.com/lhkhiem28/FLAME)
 
+**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**<br />
+Manh Nguyen-Duc<sup>&dagger;</sup>, **Khiem Le**<sup>&dagger;</sup>, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
+arXiv preprint arXiv:2305.19831<br />
+📄 [[Paper]](https://arxiv.org/abs/2305.19831) | 💻 [[Code]](https://github.com/lhkhiem28/FLIoT)
+
 <hr style="border: 0.5px solid grey;">
 
 <!---
@@ -39,11 +44,6 @@ arXiv preprint arXiv:2406.06777<br />
 📄 [[Paper]](https://arxiv.org/abs/2406.06777) | 💻 [[Code]](https://github.com/lhkhiem28/MolX)
 
 <hr style="border: 0.5px solid grey;">
-
-**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**<br />
-Manh Nguyen-Duc<sup>&dagger;</sup>, **Khiem Le**<sup>&dagger;</sup>, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
-arXiv preprint arXiv:2305.19831<br />
-📄 [[Paper]](https://arxiv.org/abs/2305.19831) | 💻 [[Code]](https://github.com/lhkhiem28/FLIoT)
 
 **Efficient Assembling of Normalization Layers and Regularization for Federated Domain Generalization**<br />
 **Khiem Le**, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />

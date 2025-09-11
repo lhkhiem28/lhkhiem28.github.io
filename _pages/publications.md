@@ -14,10 +14,12 @@ arXiv preprint arXiv:2506.16600<br />
 
 <hr style="border: 0.5px solid grey;">
 
+<!---
 **SimInstruct: A Responsible Tool for Collecting Scaffolding Dialogues to Develop An Interactive Pedagogical Agent**<br />
 Si Chen, Izzy Molnar, Ting Hua, Peiyu Li, **Khiem Le**, Alex Ambrose, James Lang, Ronald Metoyer, Nitesh V. Chawla<br />
 arXiv preprint arXiv:2508.04428<br />
 📄 [[Paper]](https://arxiv.org/abs/2508.04428)
+-->
 
 **Bridging the AI Adoption Gap: Designing An Interactive Pedagogical Agent for Higher Education Instructors**<br />
 Si Chen, Reid Metoyer, **Khiem Le**, Adam Acunin, Izzy Molnar, Alex Ambrose, James Lang, Nitesh V. Chawla, Ronald Metoyer<br />
@@ -32,7 +34,7 @@ arXiv preprint arXiv:2410.13147<br />
 📄 [[Paper]](https://arxiv.org/abs/2410.13147) | 💻 [[Code]](https://github.com/lhkhiem28/AgentDrug)
 
 **MolX: Enhancing Large Language Models for Molecular Understanding With A Multi-Modal Extension**<br />
-**Khiem Le**, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Xiangliang Zhang, Olaf Wiest, Wei Wang, Ting Hua, Nitesh V. Chawla<br />
+**Khiem Le**, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Olaf Wiest, Wei Wang, Ting Hua, Nitesh V. Chawla<br />
 arXiv preprint arXiv:2406.06777<br />
 📄 [[Paper]](https://arxiv.org/abs/2406.06777) | 💻 [[Code]](https://github.com/lhkhiem28/MolX)
 

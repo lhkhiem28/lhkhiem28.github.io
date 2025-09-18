@@ -7,10 +7,12 @@ author_profile: true
 
 <hr style="border: 0.5px solid grey;">
 
+<!---
 **FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**<br />
 **Khiem Le**, Tuan Tran, Ting Hua, Nitesh V. Chawla<br />
 arXiv preprint arXiv:2506.16600<br />
 📄 [[Paper]](https://arxiv.org/abs/2506.16600) | 💻 [[Code]](https://github.com/lhkhiem28/FLAME)
+-->
 
 **An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**<br />
 Manh Nguyen-Duc<sup>&dagger;</sup>, **Khiem Le**<sup>&dagger;</sup>, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />

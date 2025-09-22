@@ -21,12 +21,10 @@ arXiv preprint arXiv:2305.19831<br />
 
 <hr style="border: 0.5px solid grey;">
 
-<!---
 **SimInstruct: A Responsible Tool for Collecting Scaffolding Dialogues to Develop An Interactive Pedagogical Agent**<br />
-Si Chen, Izzy Molnar, Ting Hua, Peiyu Li, **Khiem Le**, Alex Ambrose, James Lang, Ronald Metoyer, Nitesh V. Chawla<br />
+Si Chen, Adam Acunin, Izzy Molnar, Peiyu Li, **Khiem Le**, Alex Ambrose, James Lang, Nitesh V. Chawla, Ronald Metoyer<br />
 arXiv preprint arXiv:2508.04428<br />
 📄 [[Paper]](https://arxiv.org/abs/2508.04428)
--->
 
 **Bridging the AI Adoption Gap: Designing An Interactive Pedagogical Agent for Higher Education Instructors**<br />
 Si Chen, Reid Metoyer, **Khiem Le**, Adam Acunin, Izzy Molnar, Alex Ambrose, James Lang, Nitesh V. Chawla, Ronald Metoyer<br />

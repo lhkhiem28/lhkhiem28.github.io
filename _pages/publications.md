@@ -53,7 +53,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 <hr style="border: 0.5px solid grey;">
 
 **HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts via HyperNetwork**<br />
-Giang Do, **Khiem Le**, Quang Pham, Tin Nguyen, Nam Doan, Binh Nguyen, Chenghao Liu, Savitha Ramasamy, Xiaoli Li, Steven Hoi<br />
+Giang Do, **Khiem Le**, Quang Pham, Binh Nguyen, Tin Nguyen, Nam Doan, Chenghao Liu, Savitha Ramasamy, Xiaoli Li, Steven Hoi<br />
 Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 5754–5765, Singapore. Association for Computational Linguistics<br />
 📄 [[Paper]](https://aclanthology.org/2023.emnlp-main.351) | 💻 [[Code]](https://github.com/giangdip2410/HyperRouter)
 

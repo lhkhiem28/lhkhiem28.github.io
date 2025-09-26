@@ -14,7 +14,7 @@ arXiv preprint arXiv:2506.16600<br />
 📄 [[Paper]](https://arxiv.org/abs/2506.16600) | 💻 [[Code]](https://github.com/lhkhiem28/FLAME)
 -->
 
-**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Allocation and Heterogeneity**<br />
+**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Heterogeneity and Allocation**<br />
 Manh Nguyen-Duc<sup>&dagger;</sup>, **Khiem Le**<sup>&dagger;</sup>, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
 arXiv preprint arXiv:2305.19831<br />
 📄 [[Paper]](https://arxiv.org/abs/2305.19831) | 💻 [[Code]](https://github.com/lhkhiem28/FLIoT)

@@ -31,7 +31,7 @@ Artificial Intelligence in Education. AIED 2025. Lecture Notes in Computer Scien
 arXiv preprint arXiv:2410.13147<br />
 📄 [[Paper]](https://arxiv.org/abs/2410.13147) | 💻 [[Code]](https://github.com/lhkhiem28/AgentDrug)
 
-**MolX: Enhancing Large Language Models for Molecular Understanding With A Multi-Modal Extension**<br />
+**MolX: Enhancing Large Language Models for Molecular Understanding with A Multi-Modal Extension**<br />
 **Khiem Le**, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Olaf Wiest, Wei Wang, Ting Hua, Nitesh V. Chawla<br />
 arXiv preprint arXiv:2406.06777<br />
 📄 [[Paper]](https://arxiv.org/abs/2406.06777) | 💻 [[Code]](https://github.com/lhkhiem28/MolX)
@@ -57,7 +57,7 @@ Proceedings of the 2023 Conference on Empirical Methods in Natural Language Proc
 
 <hr style="border: 0.5px solid grey;">
 
-**Enhancing Deep Learning-Based 3-Lead ECG Classification With Heartbeat Counting and Demographic Data Integration**<br />
+**Enhancing Deep Learning-Based 3-Lead ECG Classification with Heartbeat Counting and Demographic Data Integration**<br />
 **Khiem H. Le**, Hieu H. Pham, Thao B.T. Nguyen, Tu A. Nguyen, Tien N. Thanh, Cuong D. Do<br />
 2022 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES), Kuala Lumpur, Malaysia, 2022, pp. 154-159<br />
 📄 [[Paper]](https://doi.org/10.1109/IECBES54088.2022.10079267) | 💻 [[Code]](https://github.com/lhkhiem28/X3ECGpp)

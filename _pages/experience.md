@@ -9,11 +9,11 @@ author_profile: true
 
 * <span style="float: left;">**Research Scientist Intern**</span><span style="float: right;">**Jun 2025 - Aug 2025**</span><br />
 <span style="float: left;">[Knowledge Enhanced Accelerated Discovery](https://research.ibm.com/projects/knowledge-enhanced-accelerated-discovery)</span><span style="float: right;">IBM Research</span><br />
-<ins>*Research Area:*</ins> Computer-Assisted Molecular Design<br />
+<ins>*Research Area:*</ins> Molecular Property Prediction<br />
 
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2024 - Dec 2028**</span><br />
 <span style="float: left;">[Lucy Family Institute for Data and Society](https://lucyinstitute.nd.edu) & [NSF Center for Computer-Assisted Synthesis](https://ccas.nd.edu)</span><span style="float: right;">University of Notre Dame</span><br />
-<ins>*Research Area:*</ins> Computer-Assisted Molecular Design<br />
+<ins>*Research Area:*</ins> Molecular Design and Optimization<br />
 
 <hr style="border: 0.5px solid grey;">
 

@@ -28,7 +28,7 @@ Artificial Intelligence in Education. AIED 2025. Lecture Notes in Computer Scien
 
 **AgentDrug: Utilizing Large Language Models in An Agentic Workflow for Zero-Shot Molecular Optimization**<br />
 **Khiem Le**, Ting Hua, Nitesh V. Chawla<br />
-Findings of the 2025 Conference on Empirical Methods in Natural Language Processing, pages 24448–24458, Suzhou, China. Association for Computational Linguistics<br />
+Findings of The 2025 Conference on Empirical Methods in Natural Language Processing, pages 24448–24458, Suzhou, China. Association for Computational Linguistics<br />
 📄 [[Paper]](https://aclanthology.org/2025.findings-emnlp.1328) | 💻 [[Code]](https://github.com/lhkhiem28/AgentDrug)
 
 **MolX: Enhancing Large Language Models for Molecular Understanding with A Multi-Modal Extension**<br />
@@ -45,14 +45,14 @@ arXiv preprint arXiv:2305.19831<br />
 
 **Efficient Assembling of Normalization Layers and Regularization for Federated Domain Generalization**<br />
 **Khiem Le**, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 6027-6036<br />
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 6027-6036<br />
 📄 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.html) | 💻 [[Code]](https://github.com/lhkhiem28/gPerXAN)
 
 <hr style="border: 0.5px solid grey;">
 
 **HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts via HyperNetwork**<br />
 Giang Do, **Khiem Le**, Quang Pham, Binh Nguyen, Tin Nguyen, Nam Doan, Chenghao Liu, Savitha Ramasamy, Xiaoli Li, Steven Hoi<br />
-Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 5754–5765, Singapore. Association for Computational Linguistics<br />
+The 2023 Conference on Empirical Methods in Natural Language Processing, pages 5754–5765, Singapore. Association for Computational Linguistics<br />
 📄 [[Paper]](https://aclanthology.org/2023.emnlp-main.351) | 💻 [[Code]](https://github.com/giangdip2410/HyperRouter)
 
 <hr style="border: 0.5px solid grey;">

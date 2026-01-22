@@ -19,7 +19,7 @@ Si Chen, Adam Acunin, Izzy Molnar, Peiyu Li, **Khiem Le**, Alex Ambrose, James L
 arXiv preprint arXiv:2508.04428<br />
 📄 [[Paper]](https://arxiv.org/abs/2508.04428)
 
-**Bridging the AI Adoption Gap: Designing An Interactive Pedagogical Agent for Higher Education Instructors**<br />
+**Bridging AI Adoption Gap: Designing An Interactive Pedagogical Agent for Higher Education Instructors**<br />
 Si Chen, Reid Metoyer, **Khiem Le**, Adam Acunin, Izzy Molnar, Alex Ambrose, James Lang, Nitesh V. Chawla, Ronald Metoyer<br />
 Artificial Intelligence in Education. AIED 2025. Lecture Notes in Computer Science(), vol 15881. Springer, Cham<br />
 📄 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-98462-4_22)

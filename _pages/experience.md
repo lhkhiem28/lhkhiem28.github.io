@@ -13,7 +13,7 @@ author_profile: true
 
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2024 - Dec 2028**</span><br />
 <span style="float: left;">[Lucy Family Institute for Data and Society](https://lucyinstitute.nd.edu) & [NSF Center for Computer-Assisted Synthesis](https://ccas.nd.edu)</span><span style="float: right;">University of Notre Dame</span><br />
-<ins>*Research Area:*</ins> Molecular Design and Optimization<br />
+<ins>*Research Area:*</ins> Molecular Design, Optimization, and Editing<br />
 
 <hr style="border: 0.5px solid grey;">
 

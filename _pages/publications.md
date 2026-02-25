@@ -38,7 +38,7 @@ arXiv preprint arXiv:2406.06777<br />
 
 <hr style="border: 0.5px solid grey;">
 
-**An Empirical Study of Federated Learning on IoT-Edge Devices: Resource Heterogeneity and Allocation**<br />
+**An Empirical Study of Federated Learning on IoT Devices: Resource Heterogeneity and Allocation**<br />
 Manh Nguyen-Duc, **Khiem Le**, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
 IEEE Transactions on Neural Networks and Learning Systems, vol. 37, no. 2, pp. 753-765, Feb. 2026<br />
 📄 [[Paper]](https://doi.org/10.1109/TNNLS.2025.3611415) | 💻 [[Code]](https://github.com/lhkhiem28/FLIoT)

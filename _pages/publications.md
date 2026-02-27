@@ -14,12 +14,12 @@ arXiv preprint arXiv:2506.16600<br />
 📄 [[Paper]](https://arxiv.org/abs/2506.16600) | 💻 [[Code]](https://github.com/lhkhiem28/FLAME)
 -->
 
-**Building Scaffolding Dialogues for Developing An Interactive Pedagogical Agent**<br />
+**Building Scaffolding Dialogues for Developing Interactive Pedagogical Agents**<br />
 Si Chen, Adam Acunin, Izzy Molnar, **Khiem Le**, Alex Ambrose, James Lang, Nitesh V. Chawla, Ronald Metoyer<br />
 arXiv preprint arXiv:2508.04428<br />
 📄 [[Paper]](https://arxiv.org/abs/2508.04428)
 
-**Bridging AI Adoption Gap: Designing An Interactive Pedagogical Agent for Higher Education Instructors**<br />
+**Bridging AI Adoption Gap: Designing Interactive Pedagogical Agents for Higher Education Instructors**<br />
 Si Chen, Reid Metoyer, **Khiem Le**, Adam Acunin, Izzy Molnar, Alex Ambrose, James Lang, Nitesh V. Chawla, Ronald Metoyer<br />
 Artificial Intelligence in Education. AIED 2025. Lecture Notes in Computer Science(), vol 15881. Springer, Cham<br />
 📄 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-98462-4_22)

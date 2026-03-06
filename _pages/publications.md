@@ -43,7 +43,7 @@ Manh Nguyen-Duc, **Khiem Le**, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<b
 IEEE Transactions on Neural Networks and Learning Systems, vol. 37, no. 2, pp. 753-765, Feb. 2026<br />
 📄 [[Paper]](https://doi.org/10.1109/TNNLS.2025.3611415) | 💻 [[Code]](https://github.com/lhkhiem28/FLIoT)
 
-**Efficient Assembling of Normalization Layers and Regularization for Federated Domain Generalization**<br />
+**Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization**<br />
 **Khiem Le**, Long Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong<br />
 The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 6027-6036<br />
 📄 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.html) | 💻 [[Code]](https://github.com/lhkhiem28/gPerXAN)

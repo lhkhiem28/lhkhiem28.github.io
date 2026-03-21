@@ -14,7 +14,7 @@ arXiv preprint arXiv:2506.16600<br />
 📄 [[Paper]](https://arxiv.org/abs/2506.16600) | 💻 [[Code]](https://github.com/lhkhiem28/FLAME)
 -->
 
-**Building Scaffolding Dialogues for Developing Interactive Pedagogical Agents**<br />
+**Developing Interactive Pedagogical Agents: Building Scaffolding Dialogues with Simulated Novices**<br />
 Si Chen, Adam Acunin, Izzy Molnar, **Khiem Le**, Alex Ambrose, James Lang, Nitesh V. Chawla, Ronald Metoyer<br />
 arXiv preprint arXiv:2508.04428<br />
 📄 [[Paper]](https://arxiv.org/abs/2508.04428)

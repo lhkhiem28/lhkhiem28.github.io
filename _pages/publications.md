@@ -29,7 +29,7 @@ Artificial Intelligence in Education. AIED 2025. Lecture Notes in Computer Scien
 **AgentDrug: Utilizing Large Language Models in An Agentic Workflow for Zero-Shot Molecular Editing**<br />
 **Khiem Le**, Ting Hua, Nitesh V. Chawla<br />
 Findings of The 2025 Conference on Empirical Methods in Natural Language Processing, pages 24448–24458, Suzhou, China. Association for Computational Linguistics<br />
-📄 [[Paper]](https://arxiv.org/abs/2410.13147) | 💻 [[Code]](https://github.com/lhkhiem28/AgentDrug)
+📄 [[Paper]](https://aclanthology.org/2025.findings-emnlp.1328) | 💻 [[Code]](https://github.com/lhkhiem28/AgentDrug)
 
 **MolX: Enhancing Large Language Models for Molecular Understanding with A Multi-Modal Extension**<br />
 **Khiem Le**, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Olaf Wiest, Wei Wang, Ting Hua, Nitesh V. Chawla<br />

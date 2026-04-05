@@ -19,7 +19,7 @@ author_profile: true
 
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2023 - Dec 2023**</span><br />
 <span style="float: left;">[Security and Artificial Intelligence Lab](https://sail-research.com)</span><span style="float: right;">VinUniversity</span><br />
-<ins>*Research Area:*</ins> Resource-Efficient Federated Learning<br />
+<ins>*Research Area:*</ins> Federated Learning on Edge Devices<br />
 <ins>*Research Area:*</ins> Federated Domain Generalization<br />
 
 <hr style="border: 0.5px solid grey;">

@@ -31,10 +31,12 @@ Artificial Intelligence in Education. AIED 2025. Lecture Notes in Computer Scien
 Findings of The 2025 Conference on Empirical Methods in Natural Language Processing, pages 24448–24458, Suzhou, China. Association for Computational Linguistics<br />
 📄 [[Paper]](https://aclanthology.org/2025.findings-emnlp.1328) | 💻 [[Code]](https://github.com/lhkhiem28/AgentDrug)
 
+<!---
 **MolX: Enhancing Large Language Models for Molecular Understanding with A Multi-Modal Extension**<br />
 **Khiem Le**, Zhichun Guo, Kaiwen Dong, Xiaobao Huang, Bozhao Nan, Roshni Iyer, Olaf Wiest, Wei Wang, Ting Hua, Nitesh V. Chawla<br />
 arXiv preprint arXiv:2406.06777<br />
 📄 [[Paper]](https://arxiv.org/abs/2406.06777) | 💻 [[Code]](https://github.com/lhkhiem28/MolX)
+-->
 
 <hr style="border: 0.5px solid grey;">
 

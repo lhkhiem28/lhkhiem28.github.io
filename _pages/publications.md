@@ -52,12 +52,12 @@ The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024,
 
 <hr style="border: 0.5px solid grey;">
 
+<!---
 **HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts via HyperNetwork**<br />
 Giang Do, **Khiem Le**, Quang Pham, Binh Nguyen, Tin Nguyen, Nam Doan, Chenghao Liu, Savitha Ramasamy, Xiaoli Li, Steven Hoi<br />
 The 2023 Conference on Empirical Methods in Natural Language Processing, pages 5754–5765, Singapore. Association for Computational Linguistics<br />
 📄 [[Paper]](https://aclanthology.org/2023.emnlp-main.351) | 💻 [[Code]](https://github.com/giangdip2410/HyperRouter)
-
-<hr style="border: 0.5px solid grey;">
+-->
 
 **Enhancing Deep Learning-Based 3-Lead ECG Classification with Heartbeat Counting and Demographic Data Integration**<br />
 **Khiem H. Le**, Hieu H. Pham, Thao B.T. Nguyen, Tu A. Nguyen, Tien N. Thanh, Cuong D. Do<br />

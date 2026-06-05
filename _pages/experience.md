@@ -28,9 +28,11 @@ author_profile: true
 <span style="float: left;">[VinUni-Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn)</span><span style="float: right;">VinUniversity</span><br />
 <ins>*Research Area:*</ins> ECG Classification<br />
 
+<!---
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2021 - Dec 2021**</span><br />
 <span style="float: left;">[VinBigData Smart Health Center](https://vindr.ai)</span><span style="float: right;">VinBigData Institution</span><br />
 <ins>*Research Area:*</ins> Medical Image Analysis<br />
+-->
 
 <hr style="border: 0.5px solid grey;">
 

@@ -19,7 +19,7 @@
           url: "https://research.ibm.com/projects/knowledge-enhanced-accelerated-discovery"
       place: "IBM Research"
       areas:
-        - "Molecular Property Prediction"
+        - "Instruction-Based Molecular Property Prediction"
     - role: "Research Assistant"
       dates: "Jan 2024 - Dec 2028"
       orgs:
@@ -29,7 +29,7 @@
           url: "https://ccas.nd.edu"
       place: "University of Notre Dame"
       areas:
-        - "Molecular Design, Optimization, and Editing"
+        - "Instruction-Based Molecular Design, Optimization, and Editing"
 
 - entries:
     - role: "Research Assistant"
@@ -39,8 +39,7 @@
           url: "https://sail-research.com"
       place: "VinUniversity"
       areas:
-        - "Federated Learning on Edge Devices"
-        - "Federated Domain Generalization"
+        - "Federated Learning on Edge Devices and Dynamic Federated Learning Systems"
 
 - entries:
     - role: "Research Assistant"
@@ -51,15 +50,6 @@
       place: "VinUniversity"
       areas:
         - "ECG Classification"
-    - role: "Research Assistant"
-      dates: "Jan 2021 - Dec 2021"
-      orgs:
-        - name: "VinBigData Smart Health Center"
-          url: "https://vindr.ai"
-      place: "VinBigData Institution"
-      areas:
-        - "Medical Image Analysis"
-      hidden: true
 
 - entries:
     - role: "Research Assistant"

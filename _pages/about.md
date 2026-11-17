@@ -10,4 +10,4 @@ redirect_from:
 
 # 🌱 **Hello! I’m Khiem**
 
-I am a third-year Ph.D. Student in Computer Science at the University of Notre Dame, Notre Dame, Indiana, United States
+I am a third-year Ph.D. Student in Computer Science at the University of Notre Dame, IN, USA, advised by [Prof. Nitesh V. Chawla](https://niteshchawla.nd.edu/).

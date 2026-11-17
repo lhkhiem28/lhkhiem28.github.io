@@ -1,0 +1,72 @@
+# Positions shown on /experience/ (rendered by _includes/experience-list.md).
+#
+# Each top-level item is a group; groups are separated by a grey line.
+# Order in this file = order on the page.
+#
+# Entry fields:
+#   role    (required)
+#   dates   (required) e.g. "Jan 2024 - Dec 2028"
+#   orgs    (required) list of {name, url}; several are joined with " & "
+#   place   (required) shown on the right
+#   areas   (required) list of research areas, one line each
+#   hidden  (optional) true = kept in the page source as an HTML comment, not displayed
+
+- entries:
+    - role: "Research Scientist Intern"
+      dates: "Jun 2025 - Aug 2025"
+      orgs:
+        - name: "Knowledge Enhanced Accelerated Discovery"
+          url: "https://research.ibm.com/projects/knowledge-enhanced-accelerated-discovery"
+      place: "IBM Research"
+      areas:
+        - "Molecular Property Prediction"
+    - role: "Research Assistant"
+      dates: "Jan 2024 - Dec 2028"
+      orgs:
+        - name: "Lucy Family Institute for Data and Society"
+          url: "https://lucyinstitute.nd.edu"
+        - name: "NSF Center for Computer-Assisted Synthesis"
+          url: "https://ccas.nd.edu"
+      place: "University of Notre Dame"
+      areas:
+        - "Molecular Design, Optimization, and Editing"
+
+- entries:
+    - role: "Research Assistant"
+      dates: "Jan 2023 - Dec 2023"
+      orgs:
+        - name: "Security and Artificial Intelligence Lab"
+          url: "https://sail-research.com"
+      place: "VinUniversity"
+      areas:
+        - "Federated Learning on Edge Devices"
+        - "Federated Domain Generalization"
+
+- entries:
+    - role: "Research Assistant"
+      dates: "Jan 2022 - Dec 2022"
+      orgs:
+        - name: "VinUni-Illinois Smart Health Center"
+          url: "https://smarthealth.vinuni.edu.vn"
+      place: "VinUniversity"
+      areas:
+        - "ECG Classification"
+    - role: "Research Assistant"
+      dates: "Jan 2021 - Dec 2021"
+      orgs:
+        - name: "VinBigData Smart Health Center"
+          url: "https://vindr.ai"
+      place: "VinBigData Institution"
+      areas:
+        - "Medical Image Analysis"
+      hidden: true
+
+- entries:
+    - role: "Research Assistant"
+      dates: "Jan 2020 - Sep 2020"
+      orgs:
+        - name: "Artificial Intelligence Solution for Industrial Applications Research Lab"
+          url: "https://aisia.vn"
+      place: "VNUHCM - University of Science"
+      areas:
+        - "Vietnamese Sentiment Classification"

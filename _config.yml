@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Le Huy Khiem"
+title                    : "Khiem Le"
 # title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description"
@@ -64,7 +64,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Le Huy Khiem"
+  name             : "Khiem Le"
   avatar           : "khiem.png"
   bio              : "CS Ph.D. Student @ Notre Dame"
   location         : 

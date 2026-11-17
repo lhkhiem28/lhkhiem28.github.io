@@ -49,7 +49,7 @@
           url: "https://smarthealth.vinuni.edu.vn"
       place: "VinUniversity"
       areas:
-        - "ECG Classification"
+        - "Lightweight ECG Classification"
 
 - entries:
     - role: "Research Assistant"

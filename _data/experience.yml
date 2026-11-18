@@ -59,4 +59,4 @@
           url: "https://aisia.vn"
       place: "VNUHCM - University of Science"
       areas:
-        - "Vietnamese Sentiment Classification"
+        - "Vietnamese Text Sentiment Classification"
